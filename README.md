@@ -47,7 +47,7 @@ An interactive 3D particle visualization built using **Three.js** and **MediaPip
 1. Clone the repository
 
 ```bash
-git clone https://github.com/priya16150/3-JS-PARTICLE----3d-effects
+https://github.com/priya16150/3-JS-PARTICLE----3d-effects/tree/main
 ```
 
 2. Open the project folder
